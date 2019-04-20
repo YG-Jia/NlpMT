@@ -1,0 +1,660 @@
+Empty talk harms the country , while hard work makes it flourish . 
+Empty talk would lead the country astray , and hard work can rejuvenate the nation . 
+Cumulative 1-gram: 0.500000
+Cumulative 2-gram: 0.316228
+Cumulative 3-gram: 0.467735
+Cumulative 4-gram: 0.562341
+Individual 1-gram: 0.500000
+Individual 2-gram: 0.200000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+We must not underestimate ourselves and should cherish the best of our traditions and culture . 
+Forget one's ancestors . 
+Cumulative 1-gram: 0.012447
+Cumulative 2-gram: 0.024894
+Cumulative 3-gram: 0.031509
+Cumulative 4-gram: 0.035205
+Individual 1-gram: 0.012447
+Individual 2-gram: 0.049787
+Individual 3-gram: 0.049787
+Individual 4-gram: 0.049787
+
+If decrees are not obeyed , government affairs will be mismanaged . 
+No order , no government . 
+Cumulative 1-gram: 0.183940
+Cumulative 2-gram: 0.260130
+Cumulative 3-gram: 0.292662
+Cumulative 4-gram: 0.309349
+Individual 1-gram: 0.183940
+Individual 2-gram: 0.367879
+Individual 3-gram: 0.367879
+Individual 4-gram: 0.367879
+
+Looking at the mirror we know about ourselves ; reflecting on the past we know what to do now . 
+The mirror is so shape-shaped , so the ancient things are known now . 
+Cumulative 1-gram: 0.186125
+Cumulative 2-gram: 0.096576
+Cumulative 3-gram: 0.184812
+Cumulative 4-gram: 0.250825
+Individual 1-gram: 0.186125
+Individual 2-gram: 0.050111
+Individual 3-gram: 0.651439
+Individual 4-gram: 0.651439
+
+Without resolve , one can accomplish nothing . 
+Nothing in the world can be accomplished without the will of the people . 
+Cumulative 1-gram: 0.142857
+Cumulative 2-gram: 0.377964
+Cumulative 3-gram: 0.526160
+Cumulative 4-gram: 0.614788
+Individual 1-gram: 0.142857
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+Feats are accomplished by capable people ; work develops because of achievers . 
+Work is accomplished with merit , but with a wide range of causes . 
+Cumulative 1-gram: 0.214286
+Cumulative 2-gram: 0.462910
+Cumulative 3-gram: 0.601489
+Cumulative 4-gram: 0.680375
+Individual 1-gram: 0.214286
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+How can one correct others if he himself is not upright ? 
+If you are not right , how can you be right ? 
+Cumulative 1-gram: 0.250000
+Cumulative 2-gram: 0.500000
+Cumulative 3-gram: 0.632878
+Cumulative 4-gram: 0.707107
+Individual 1-gram: 0.250000
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+A rock can be smashed , but its pieces will still be hard ; cinnabar can be ground , but its powder will still be red . 
+Stone can be broken , but not hard ; Dan can be ground , but not red . 
+Cumulative 1-gram: 0.438050
+Cumulative 2-gram: 0.353597
+Cumulative 3-gram: 0.244498
+Cumulative 4-gram: 0.184147
+Individual 1-gram: 0.438050
+Individual 2-gram: 0.285426
+Individual 3-gram: 0.113724
+Individual 4-gram: 0.080871
+
+The same water that keeps a ship afloat can also sink it . 
+The water that bears the boat is the same that swallows it up . 
+Cumulative 1-gram: 0.428571
+Cumulative 2-gram: 0.181568
+Cumulative 3-gram: 0.324314
+Cumulative 4-gram: 0.426108
+Individual 1-gram: 0.428571
+Individual 2-gram: 0.076923
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+Heroes are those who know themselves and can surpass themselves . 
+The self-knowledge is the British , the self-winner is the male . 
+Cumulative 1-gram: 0.083333
+Cumulative 2-gram: 0.288675
+Cumulative 3-gram: 0.440423
+Cumulative 4-gram: 0.537285
+Individual 1-gram: 0.083333
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+You are bound to fail if you only know what to do but without knowing the situation . 
+To know and not to fail for the time being . 
+Cumulative 1-gram: 0.240552
+Cumulative 2-gram: 0.112829
+Cumulative 3-gram: 0.190823
+Cumulative 4-gram: 0.244357
+Individual 1-gram: 0.240552
+Individual 2-gram: 0.052921
+Individual 3-gram: 0.529213
+Individual 4-gram: 0.529213
+
+Leaders chart the course while the people get the job done . 
+Do it at the top , and divide it into the next . 
+Cumulative 1-gram: 0.230769
+Cumulative 2-gram: 0.480384
+Cumulative 3-gram: 0.616380
+Cumulative 4-gram: 0.693098
+Individual 1-gram: 0.230769
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+In a coutry , the people are the most inportant . 
+The earth and the earth are large , and Li Yuan is the foundation . 
+Cumulative 1-gram: 0.333333
+Cumulative 2-gram: 0.577350
+Cumulative 3-gram: 0.695905
+Cumulative 4-gram: 0.759836
+Individual 1-gram: 0.333333
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+Nip the problem in the bud when it is in the making ; prepare yourself for the risks yet to emrge . 
+Pictures are not cute , but they are not . 
+Cumulative 1-gram: 0.030119
+Cumulative 2-gram: 0.095246
+Cumulative 3-gram: 0.140879
+Cumulative 4-gram: 0.169374
+Individual 1-gram: 0.030119
+Individual 2-gram: 0.301194
+Individual 3-gram: 0.301194
+Individual 4-gram: 0.301194
+
+Opportunities are rare and hard to grasp , and easy to lose . 
+Opportunity is like God , difficult to encounter and easy to lose . 
+Cumulative 1-gram: 0.538462
+Cumulative 2-gram: 0.423659
+Cumulative 3-gram: 0.369506
+Cumulative 4-gram: 0.314556
+Individual 1-gram: 0.538462
+Individual 2-gram: 0.333333
+Individual 3-gram: 0.272727
+Individual 4-gram: 0.200000
+
+A false path will lead us to the very opposite of what we are trying to accomplish . 
+o south by driving the chariot north -- act in a way that defeats one's purpose . 
+Cumulative 1-gram: 0.110926
+Cumulative 2-gram: 0.323403
+Cumulative 3-gram: 0.465313
+Cumulative 4-gram: 0.552203
+Individual 1-gram: 0.110926
+Individual 2-gram: 0.942873
+Individual 3-gram: 0.942873
+Individual 4-gram: 0.942873
+
+feign support instead of taking real ation .
+Lord Ye professed to love dragons . 
+Cumulative 1-gram: 0.123840
+Cumulative 2-gram: 0.327649
+Cumulative 3-gram: 0.456116
+Cumulative 4-gram: 0.532946
+Individual 1-gram: 0.123840
+Individual 2-gram: 0.866878
+Individual 3-gram: 0.866878
+Individual 4-gram: 0.866878
+
+When the law of the land under heaven is good , there will be order in the land under heaven ; when the laws of the state are good , there will be order in the state . 
+When a good law is established in the world , the world governs ; a country governs a good law in a country . 
+Cumulative 1-gram: 0.279018
+Cumulative 2-gram: 0.082278
+Cumulative 3-gram: 0.157743
+Cumulative 4-gram: 0.214275
+Individual 1-gram: 0.279018
+Individual 2-gram: 0.024262
+Individual 3-gram: 0.558035
+Individual 4-gram: 0.558035
+
+The greatest challenge for a country lies not in making laws , but in putting those laws into effect . 
+The world's affairs are not difficult to legislate , but the law is difficult to do . 
+Cumulative 1-gram: 0.246536
+Cumulative 2-gram: 0.113648
+Cumulative 3-gram: 0.224188
+Cumulative 4-gram: 0.308646
+Individual 1-gram: 0.246536
+Individual 2-gram: 0.052389
+Individual 3-gram: 0.838223
+Individual 4-gram: 0.838223
+
+If it is good for the people , there is no need to follow the practices of antiquity ; if it serves the matter at hand , there is no need to observe the conventions of old . 
+The interests of the people do not have to be legalistic , but they do not have to follow the past . 
+Cumulative 1-gram: 0.197683
+Cumulative 2-gram: 0.116818
+Cumulative 3-gram: 0.070441
+Cumulative 4-gram: 0.112350
+Individual 1-gram: 0.197683
+Individual 2-gram: 0.069032
+Individual 3-gram: 0.024161
+Individual 4-gram: 0.483225
+
+Do honest and upright things justly , selflessly , and conscientiously . 
+With the most selfless heart , do the heart of justice and light 
+Cumulative 1-gram: 0.153846
+Cumulative 2-gram: 0.392232
+Cumulative 3-gram: 0.539186
+Cumulative 4-gram: 0.626284
+Individual 1-gram: 0.153846
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+When the countries are governed , the country is at peace . 
+County governance , the world is safe 
+Cumulative 1-gram: 0.209804
+Cumulative 2-gram: 0.130836
+Cumulative 3-gram: 0.204912
+Cumulative 4-gram: 0.253080
+Individual 1-gram: 0.209804
+Individual 2-gram: 0.081590
+Individual 3-gram: 0.489542
+Individual 4-gram: 0.489542
+
+Prime ministers must have served as local officials , and great generals must have risen from the ranks . 
+The prime minister starts from the state department , and the prime minister begins with the pawn 
+Cumulative 1-gram: 0.209179
+Cumulative 2-gram: 0.152464
+Cumulative 3-gram: 0.277663
+Cumulative 4-gram: 0.368160
+Individual 1-gram: 0.209179
+Individual 2-gram: 0.111126
+Individual 3-gram: 0.889010
+Individual 4-gram: 0.889010
+
+Wang achieved remarkable results in governance and was widely praised by the people . 
+On a large scale , the people call it a virtue . 
+Cumulative 1-gram: 0.211620
+Cumulative 2-gram: 0.127612
+Cumulative 3-gram: 0.242817
+Cumulative 4-gram: 0.328666
+Individual 1-gram: 0.211620
+Individual 2-gram: 0.076953
+Individual 3-gram: 0.846482
+Individual 4-gram: 0.846482
+
+When I hear the rustles of bamboo leaves ourside mu study , I feel it is the wails of hungry people ; for petty county officials like us , every concern of the people wights in our heart . 
+Yu Zhai lies listening to Xiaoxiao rain , suspicion is folk pain . Some small Caozhou County officials , a leaf a total Guan . 
+Cumulative 1-gram: 0.114242
+Cumulative 2-gram: 0.255452
+Cumulative 3-gram: 0.335842
+Cumulative 4-gram: 0.381991
+Individual 1-gram: 0.114242
+Individual 2-gram: 0.571209
+Individual 3-gram: 0.571209
+Individual 4-gram: 0.571209
+
+It may be small , but it has everything needed . 
+Although sparrows are small , they have all the viscera . 
+Cumulative 1-gram: 0.272727
+Cumulative 2-gram: 0.165145
+Cumulative 3-gram: 0.304642
+Cumulative 4-gram: 0.406380
+Individual 1-gram: 0.272727
+Individual 2-gram: 0.100000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+The most difficult office was that of a magistrate . 
+He who is a victim of an official is ordered to do so . 
+Cumulative 1-gram: 0.214286
+Cumulative 2-gram: 0.462910
+Cumulative 3-gram: 0.601489
+Cumulative 4-gram: 0.680375
+Individual 1-gram: 0.214286
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+The greatest virtue is none other than loyalty . 
+Good is better than loyalty . 
+Cumulative 1-gram: 0.404354
+Cumulative 2-gram: 0.313211
+Cumulative 3-gram: 0.248166
+Cumulative 4-gram: 0.308198
+Individual 1-gram: 0.404354
+Individual 2-gram: 0.242612
+Individual 3-gram: 0.151633
+Individual 4-gram: 0.606531
+
+In many coutries far away from the center , when higher-level supervision is distant . 
+The mountain is high , the emperor far away -- it is difficult to get justice . 
+Cumulative 1-gram: 0.352941
+Cumulative 2-gram: 0.148522
+Cumulative 3-gram: 0.284042
+Cumulative 4-gram: 0.385386
+Individual 1-gram: 0.352941
+Individual 2-gram: 0.062500
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+be the first to worry about state affairs and the last to enjoy yourselves . 
+Be concern about the country and the people before anything else . 
+Cumulative 1-gram: 0.324500
+Cumulative 2-gram: 0.151574
+Cumulative 3-gram: 0.264422
+Cumulative 4-gram: 0.343578
+Individual 1-gram: 0.324500
+Individual 2-gram: 0.070800
+Individual 3-gram: 0.778801
+Individual 4-gram: 0.778801
+
+Choose to do the things that the people want to be done , and avoid doing things that the people disapprove of . 
+The place of the people is good , and the evil of the people . 
+Cumulative 1-gram: 0.351988
+Cumulative 2-gram: 0.210353
+Cumulative 3-gram: 0.298122
+Cumulative 4-gram: 0.351287
+Individual 1-gram: 0.351988
+Individual 2-gram: 0.125710
+Individual 3-gram: 0.586646
+Individual 4-gram: 0.586646
+
+Avoiding responsibilities is the greatest disgrace for an official . 
+Be ashamed of being an official and avoiding things in oneundefineds life . 
+Cumulative 1-gram: 0.230769
+Cumulative 2-gram: 0.138675
+Cumulative 3-gram: 0.271468
+Cumulative 4-gram: 0.372391
+Individual 1-gram: 0.230769
+Individual 2-gram: 0.083333
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+You cannot have your cake and eat it . 
+Fish and bear paws canundefinedt be both 
+Cumulative 1-gram: 0.107354
+Cumulative 2-gram: 0.284032
+Cumulative 3-gram: 0.395397
+Cumulative 4-gram: 0.461999
+Individual 1-gram: 0.107354
+Individual 2-gram: 0.751477
+Individual 3-gram: 0.751477
+Individual 4-gram: 0.751477
+
+When the Great Way rules , the land under Heaven belongs to the people . 
+When Great Way was implemented , the world was shared by people . 
+Cumulative 1-gram: 0.461679
+Cumulative 2-gram: 0.314581
+Cumulative 3-gram: 0.442371
+Cumulative 4-gram: 0.519349
+Individual 1-gram: 0.461679
+Individual 2-gram: 0.214351
+Individual 3-gram: 0.857404
+Individual 4-gram: 0.857404
+
+Fortune and riches obtained through unjust means are like floating clouds for me . 
+Unrighteousness and wealth and honour are like clouds to me . 
+Cumulative 1-gram: 0.415255
+Cumulative 2-gram: 0.251449
+Cumulative 3-gram: 0.366460
+Cumulative 4-gram: 0.437525
+Individual 1-gram: 0.415255
+Individual 2-gram: 0.152260
+Individual 3-gram: 0.761300
+Individual 4-gram: 0.761300
+
+A man of virtue has a good knowledge of vighteousness . 
+A gentleman is a good name . 
+Cumulative 1-gram: 0.322696
+Cumulative 2-gram: 0.174276
+Cumulative 3-gram: 0.259920
+Cumulative 4-gram: 0.313714
+Individual 1-gram: 0.322696
+Individual 2-gram: 0.094120
+Individual 3-gram: 0.564718
+Individual 4-gram: 0.564718
+
+Be true in word and resolute in deed . 
+Words must be done , deeds must bear fruit . 
+Cumulative 1-gram: 0.100000
+Cumulative 2-gram: 0.316228
+Cumulative 3-gram: 0.467735
+Cumulative 4-gram: 0.562341
+Individual 1-gram: 0.100000
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+A man of high moral quality will never feel lonely . 
+Without solitude , there must be neighbors . 
+Cumulative 1-gram: 0.085911
+Cumulative 2-gram: 0.242993
+Cumulative 3-gram: 0.346035
+Cumulative 4-gram: 0.408665
+Individual 1-gram: 0.085911
+Individual 2-gram: 0.687289
+Individual 3-gram: 0.687289
+Individual 4-gram: 0.687289
+
+If a man does not keep his word , what is he good for ? 
+A man who has no faith knows not what he is . 
+Cumulative 1-gram: 0.324500
+Cumulative 2-gram: 0.502714
+Cumulative 3-gram: 0.583387
+Cumulative 4-gram: 0.625711
+Individual 1-gram: 0.324500
+Individual 2-gram: 0.778801
+Individual 3-gram: 0.778801
+Individual 4-gram: 0.778801
+
+Nothing can be accomplished without regulations and rules . 
+If you want to know flatness , you must rule ; if you want to know the circle , you must behave . 
+Cumulative 1-gram: 0.043478
+Cumulative 2-gram: 0.208514
+Cumulative 3-gram: 0.355328
+Cumulative 4-gram: 0.456634
+Individual 1-gram: 0.043478
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+Young pines should grow a thousand feet high , while poisoning bamboos should be cut down one by one . 
+Xinsong hate not high thousand feet , evil bamboo should be chopped ten thousand poles . 
+Cumulative 1-gram: 0.340725
+Cumulative 2-gram: 0.188098
+Cumulative 3-gram: 0.304915
+Cumulative 4-gram: 0.382742
+Individual 1-gram: 0.340725
+Individual 2-gram: 0.103840
+Individual 3-gram: 0.778801
+Individual 4-gram: 0.778801
+
+Do not consider any virtue as unimportant , and therefore neglect it ; do not consider any vice as trivial , and therefore practice it . 
+Donundefinedt give up doing good even if it doesnundefinedt matter , donundefinedt do bad even if itundefineds not obvious . 
+Cumulative 1-gram: 0.185205
+Cumulative 2-gram: 0.370409
+Cumulative 3-gram: 0.468848
+Cumulative 4-gram: 0.523838
+Individual 1-gram: 0.185205
+Individual 2-gram: 0.740818
+Individual 3-gram: 0.740818
+Individual 4-gram: 0.740818
+
+He who would govern the country must first run his family well and discipline himself . 
+Will teach the world , certainly its home , will correct its body . 
+Cumulative 1-gram: 0.123840
+Cumulative 2-gram: 0.327649
+Cumulative 3-gram: 0.456116
+Cumulative 4-gram: 0.532946
+Individual 1-gram: 0.123840
+Individual 2-gram: 0.866878
+Individual 3-gram: 0.866878
+Individual 4-gram: 0.866878
+
+Give close kin official posts and lose your job and ruin your family . 
+Donundefinedt use the third Master , dismiss the family . 
+Cumulative 1-gram: 0.134064
+Cumulative 2-gram: 0.099925
+Cumulative 3-gram: 0.190863
+Cumulative 4-gram: 0.258809
+Individual 1-gram: 0.134064
+Individual 2-gram: 0.074480
+Individual 3-gram: 0.670320
+Individual 4-gram: 0.670320
+
+It is easy for laxity to set in , and difficult for rigor to return . 
+It is easy to pour the wind , but difficult to return . 
+Cumulative 1-gram: 0.549639
+Cumulative 2-gram: 0.381388
+Cumulative 3-gram: 0.278809
+Cumulative 4-gram: 0.359321
+Individual 1-gram: 0.549639
+Individual 2-gram: 0.264641
+Individual 3-gram: 0.144350
+Individual 4-gram: 0.793923
+
+Governance by means of virtue . 
+exercising government by means of virtue 
+Cumulative 1-gram: 0.666667
+Cumulative 2-gram: 0.632456
+Cumulative 3-gram: 0.587949
+Cumulative 4-gram: 0.508133
+Individual 1-gram: 0.666667
+Individual 2-gram: 0.600000
+Individual 3-gram: 0.500000
+Individual 4-gram: 0.333333
+
+Responsibility for one's jurisdiction . 
+duty-bound to defend the territory of oneundefineds country 
+Cumulative 1-gram: 0.000000
+Cumulative 2-gram: 0.000000
+Cumulative 3-gram: 0.000000
+Cumulative 4-gram: 0.000000
+Individual 1-gram: 0.000000
+Individual 2-gram: 0.000000
+Individual 3-gram: 0.000000
+Individual 4-gram: 0.000000
+
+To win , one must become resolute first . 
+If you want to stand , you must stand with your heart . 
+Cumulative 1-gram: 0.230769
+Cumulative 2-gram: 0.480384
+Cumulative 3-gram: 0.616380
+Cumulative 4-gram: 0.693098
+Individual 1-gram: 0.230769
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+To govern the country , the priority is to realize equality , and then stability will follow . 
+Governing the world will be the first public , the public is the world is calm . 
+Cumulative 1-gram: 0.332779
+Cumulative 2-gram: 0.140038
+Cumulative 3-gram: 0.267815
+Cumulative 4-gram: 0.363370
+Individual 1-gram: 0.332779
+Individual 2-gram: 0.058930
+Individual 3-gram: 0.942873
+Individual 4-gram: 0.942873
+
+The huge gap between the rich and poor . 
+The rich are tired , but the poor eat bran . 
+Cumulative 1-gram: 0.454545
+Cumulative 2-gram: 0.674200
+Cumulative 3-gram: 0.770904
+Cumulative 4-gram: 0.821097
+Individual 1-gram: 0.454545
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+Everything has its counterpart . 
+There are up and down , there is one , there is another . 
+Cumulative 1-gram: 0.071429
+Cumulative 2-gram: 0.267261
+Cumulative 3-gram: 0.418579
+Cumulative 4-gram: 0.516973
+Individual 1-gram: 0.071429
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+The master fished with a line but not with a net ; when following he did not aim at a roosting bird . 
+If you do not fish , you will not fly . 
+Cumulative 1-gram: 0.091612
+Cumulative 2-gram: 0.175424
+Cumulative 3-gram: 0.218784
+Cumulative 4-gram: 0.242748
+Individual 1-gram: 0.091612
+Individual 2-gram: 0.335911
+Individual 3-gram: 0.335911
+Individual 4-gram: 0.335911
+
+There are some fixed principles in governing a state , among which benefiting the people should be the root . 
+Governing a country is common , but benefiting the people is the basis . 
+Cumulative 1-gram: 0.325720
+Cumulative 2-gram: 0.180677
+Cumulative 3-gram: 0.123067
+Cumulative 4-gram: 0.184329
+Individual 1-gram: 0.325720
+Individual 2-gram: 0.100221
+Individual 3-gram: 0.054287
+Individual 4-gram: 0.651439
+
+He is not concerned lest his people should be poor , but only lest what they have should be ill-apportioned . He is not concerned lest they should be few , but only lest they should be divided against one another . 
+We do not suffer from poverty but from inequality , nor do we suffer from poverty and uneasiness . 
+Cumulative 1-gram: 0.062745
+Cumulative 2-gram: 0.136750
+Cumulative 3-gram: 0.178224
+Cumulative 4-gram: 0.201884
+Individual 1-gram: 0.062745
+Individual 2-gram: 0.298040
+Individual 3-gram: 0.298040
+Individual 4-gram: 0.298040
+
+Do reverence to the elders in your own family and extend it to those in other families ; show loving care to the young in your own family and extend it to those in other families . 
+Old and old , young and young . 
+Cumulative 1-gram: 0.013325
+Cumulative 2-gram: 0.018844
+Cumulative 3-gram: 0.021200
+Cumulative 4-gram: 0.022409
+Individual 1-gram: 0.013325
+Individual 2-gram: 0.026649
+Individual 3-gram: 0.026649
+Individual 4-gram: 0.026649
+
+A clearer understanding of new concepts makes actions stronger and more targeted . 
+The more you know , the better you will act . 
+Cumulative 1-gram: 0.151591
+Cumulative 2-gram: 0.355513
+Cumulative 3-gram: 0.475026
+Cumulative 4-gram: 0.544436
+Individual 1-gram: 0.151591
+Individual 2-gram: 0.833753
+Individual 3-gram: 0.833753
+Individual 4-gram: 0.833753
+
+When seeking knowledge , one must know why and how . 
+The poor man wants to know why things are so natural . 
+Cumulative 1-gram: 0.250000
+Cumulative 2-gram: 0.150756
+Cumulative 3-gram: 0.286854
+Cumulative 4-gram: 0.388273
+Individual 1-gram: 0.250000
+Individual 2-gram: 0.090909
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+It is not knowledge but action that is difficult to acquire . 
+It is difficult not to know , but difficult to do 
+Cumulative 1-gram: 0.498055
+Cumulative 2-gram: 0.369367
+Cumulative 3-gram: 0.502457
+Cumulative 4-gram: 0.580749
+Individual 1-gram: 0.498055
+Individual 2-gram: 0.273930
+Individual 3-gram: 0.913101
+Individual 4-gram: 0.913101
+
+We should apply different methods to solve different issues . 
+Go into the mountains to ask firewood , into the water to ask fish . 
+Cumulative 1-gram: 0.133333
+Cumulative 2-gram: 0.365148
+Cumulative 3-gram: 0.514316
+Cumulative 4-gram: 0.604275
+Individual 1-gram: 0.133333
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
+Limitations lead to change ; changes lead to solutions ; solutions lead to development . 
+The poor will change , the change will pass , and the general will be long . 
+Cumulative 1-gram: 0.117647
+Cumulative 2-gram: 0.342997
+Cumulative 3-gram: 0.493505
+Cumulative 4-gram: 0.585660
+Individual 1-gram: 0.117647
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
+
