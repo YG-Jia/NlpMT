@@ -13,13 +13,17 @@ def replacePun(fileName,newFileName):
     # Read standard file to stanList
     # dir = "Xiaoyi.txt"
     dir = fileName
-    filePath = os.path.join('data', dir)
+    filePath = os.path.join('OrigData', dir)
     file = open(filePath)
     contentList = []
 
     line = file.readline()
     while line:
+
         punctuation = [',','.',':',';','?']
+        print(line[-2])
+        if(line[-2] not in punctuation):
+            line = line + "."
         for pun in punctuation:
             line = line.replace(pun," "+pun)
             # try:
@@ -28,6 +32,7 @@ def replacePun(fileName,newFileName):
             #     pass
             # else:
             #     line = insert(line," ",idx)
+
         contentList.append(line)
         line = file.readline()
     file.close()
@@ -172,23 +177,14 @@ def plotTheFigre():
 
 if __name__ == '__main__':
 
-    # fileList = ["Baidu.txt", "Google.txt", "Jinshan.txt", "Xiaoyi.txt", "Youdao.txt"]
+
+    fileList = ["Baidu.txt", "Google.txt", "Jinshan.txt", "Xiaoyi.txt", "Youdao.txt"]
+    for file in fileList:
+        replacePun(file,file)
+
     # computeBLEU(fileList,True,False)
 
     # str1 = "Empty talk harms the country"
     # str2 = "Empty talk spoils the country"
 
-    ref = [['Empty', 'talk', 'harms', 'the','country']]
-    can = ['Empty', 'talk', 'spoils', 'the','country']
-    strScore1 = sentence_bleu(ref, can,weights=(1,0,0,0))
-    strScore2 = sentence_bleu(ref, can,weights=(0,1,0,0))
-    strScore3 = sentence_bleu(ref, can,weights=(0,0,1,0))
-    strScore4 = sentence_bleu(ref, can,weights=(0,0,0,1))
-    # strScore1 = sentence_bleu([str1.split()], str2.split())
-
-
-    print(strScore1)
-    print(strScore2)
-    print(strScore3)
-    print(strScore4)
 
