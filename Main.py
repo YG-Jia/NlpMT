@@ -179,10 +179,11 @@ if __name__ == '__main__':
 
 
     fileList = ["Baidu.txt", "Google.txt", "Jinshan.txt", "Xiaoyi.txt", "Youdao.txt"]
+    # for file in fileList:
+    #     replacePun(file,file)
+    #     print("---------------------end------------------")
     for file in fileList:
-        replacePun(file,file)
-
-    # computeBLEU(fileList,True,False)
+        computeBLEU(fileList,True,True)
 
     # str1 = "Empty talk harms the country"
     # str2 = "Empty talk spoils the country"

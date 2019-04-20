@@ -174,7 +174,7 @@ Individual 2-gram: 0.942873
 Individual 3-gram: 0.942873
 Individual 4-gram: 0.942873
 
-feign support instead of taking real ation .
+feign support instead of taking real ation . 
 Lord Ye professed to love dragons . 
 Cumulative 1-gram: 0.123840
 Cumulative 2-gram: 0.327649
@@ -219,37 +219,37 @@ Individual 3-gram: 0.024161
 Individual 4-gram: 0.483225
 
 Do honest and upright things justly , selflessly , and conscientiously . 
-With the most selfless heart , do the heart of justice and light 
-Cumulative 1-gram: 0.153846
-Cumulative 2-gram: 0.392232
-Cumulative 3-gram: 0.539186
-Cumulative 4-gram: 0.626284
-Individual 1-gram: 0.153846
+With the most selfless heart , do the heart of justice and light . 
+Cumulative 1-gram: 0.214286
+Cumulative 2-gram: 0.462910
+Cumulative 3-gram: 0.601489
+Cumulative 4-gram: 0.680375
+Individual 1-gram: 0.214286
 Individual 2-gram: 1.000000
 Individual 3-gram: 1.000000
 Individual 4-gram: 1.000000
 
 When the countries are governed , the country is at peace . 
-County governance , the world is safe 
-Cumulative 1-gram: 0.209804
-Cumulative 2-gram: 0.130836
-Cumulative 3-gram: 0.204912
-Cumulative 4-gram: 0.253080
-Individual 1-gram: 0.209804
-Individual 2-gram: 0.081590
-Individual 3-gram: 0.489542
-Individual 4-gram: 0.489542
+County governance , the world is safe . 
+Cumulative 1-gram: 0.303265
+Cumulative 2-gram: 0.162102
+Cumulative 3-gram: 0.253881
+Cumulative 4-gram: 0.313560
+Individual 1-gram: 0.303265
+Individual 2-gram: 0.086647
+Individual 3-gram: 0.606531
+Individual 4-gram: 0.606531
 
 Prime ministers must have served as local officials , and great generals must have risen from the ranks . 
-The prime minister starts from the state department , and the prime minister begins with the pawn 
-Cumulative 1-gram: 0.209179
-Cumulative 2-gram: 0.152464
-Cumulative 3-gram: 0.277663
-Cumulative 4-gram: 0.368160
-Individual 1-gram: 0.209179
-Individual 2-gram: 0.111126
-Individual 3-gram: 0.889010
-Individual 4-gram: 0.889010
+The prime minister starts from the state department , and the prime minister begins with the pawn . 
+Cumulative 1-gram: 0.262767
+Cumulative 2-gram: 0.171006
+Cumulative 3-gram: 0.305904
+Cumulative 4-gram: 0.402200
+Individual 1-gram: 0.262767
+Individual 2-gram: 0.111289
+Individual 3-gram: 0.945959
+Individual 4-gram: 0.945959
 
 Wang achieved remarkable results in governance and was widely praised by the people . 
 On a large scale , the people call it a virtue . 
@@ -351,15 +351,15 @@ Individual 3-gram: 1.000000
 Individual 4-gram: 1.000000
 
 You cannot have your cake and eat it . 
-Fish and bear paws canundefinedt be both 
-Cumulative 1-gram: 0.107354
-Cumulative 2-gram: 0.284032
-Cumulative 3-gram: 0.395397
-Cumulative 4-gram: 0.461999
-Individual 1-gram: 0.107354
-Individual 2-gram: 0.751477
-Individual 3-gram: 0.751477
-Individual 4-gram: 0.751477
+Fish and bear paws canundefinedt be both . 
+Cumulative 1-gram: 0.220624
+Cumulative 2-gram: 0.441248
+Cumulative 3-gram: 0.558513
+Cumulative 4-gram: 0.624020
+Individual 1-gram: 0.220624
+Individual 2-gram: 0.882497
+Individual 3-gram: 0.882497
+Individual 4-gram: 0.882497
 
 When the Great Way rules , the land under Heaven belongs to the people . 
 When Great Way was implemented , the world was shared by people . 
@@ -494,26 +494,26 @@ Individual 3-gram: 0.144350
 Individual 4-gram: 0.793923
 
 Governance by means of virtue . 
-exercising government by means of virtue 
-Cumulative 1-gram: 0.666667
-Cumulative 2-gram: 0.632456
-Cumulative 3-gram: 0.587949
-Cumulative 4-gram: 0.508133
-Individual 1-gram: 0.666667
-Individual 2-gram: 0.600000
-Individual 3-gram: 0.500000
-Individual 4-gram: 0.333333
+exercising government by means of virtue . 
+Cumulative 1-gram: 0.714286
+Cumulative 2-gram: 0.690066
+Cumulative 3-gram: 0.661390
+Cumulative 4-gram: 0.614788
+Individual 1-gram: 0.714286
+Individual 2-gram: 0.666667
+Individual 3-gram: 0.600000
+Individual 4-gram: 0.500000
 
 Responsibility for one's jurisdiction . 
-duty-bound to defend the territory of oneundefineds country 
-Cumulative 1-gram: 0.000000
-Cumulative 2-gram: 0.000000
-Cumulative 3-gram: 0.000000
-Cumulative 4-gram: 0.000000
-Individual 1-gram: 0.000000
-Individual 2-gram: 0.000000
-Individual 3-gram: 0.000000
-Individual 4-gram: 0.000000
+duty-bound to defend the territory of oneundefineds country . 
+Cumulative 1-gram: 0.111111
+Cumulative 2-gram: 0.333333
+Cumulative 3-gram: 0.484284
+Cumulative 4-gram: 0.577350
+Individual 1-gram: 0.111111
+Individual 2-gram: 1.000000
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
 
 To win , one must become resolute first . 
 If you want to stand , you must stand with your heart . 
@@ -626,15 +626,15 @@ Individual 3-gram: 1.000000
 Individual 4-gram: 1.000000
 
 It is not knowledge but action that is difficult to acquire . 
-It is difficult not to know , but difficult to do 
-Cumulative 1-gram: 0.498055
-Cumulative 2-gram: 0.369367
-Cumulative 3-gram: 0.502457
-Cumulative 4-gram: 0.580749
-Individual 1-gram: 0.498055
-Individual 2-gram: 0.273930
-Individual 3-gram: 0.913101
-Individual 4-gram: 0.913101
+It is difficult not to know , but difficult to do . 
+Cumulative 1-gram: 0.583333
+Cumulative 2-gram: 0.398862
+Cumulative 3-gram: 0.545184
+Cumulative 4-gram: 0.631555
+Individual 1-gram: 0.583333
+Individual 2-gram: 0.272727
+Individual 3-gram: 1.000000
+Individual 4-gram: 1.000000
 
 We should apply different methods to solve different issues . 
 Go into the mountains to ask firewood , into the water to ask fish . 

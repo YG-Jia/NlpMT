@@ -10,15 +10,15 @@ Individual 3-gram: 0.424373
 Individual 4-gram: 0.424373
 
 We must not underestimate ourselves and should cherish the best of our traditions and culture . 
-Forget your ancestors 
-Cumulative 1-gram: 0.000000
-Cumulative 2-gram: 0.000000
-Cumulative 3-gram: 0.000000
-Cumulative 4-gram: 0.000000
-Individual 1-gram: 0.000000
-Individual 2-gram: 0.000000
-Individual 3-gram: 0.000000
-Individual 4-gram: 0.000000
+Forget your ancestors . 
+Cumulative 1-gram: 0.012447
+Cumulative 2-gram: 0.024894
+Cumulative 3-gram: 0.031509
+Cumulative 4-gram: 0.035205
+Individual 1-gram: 0.012447
+Individual 2-gram: 0.049787
+Individual 3-gram: 0.049787
+Individual 4-gram: 0.049787
 
 If decrees are not obeyed , government affairs will be mismanaged . 
 Make no good of it . 
@@ -174,7 +174,7 @@ Individual 2-gram: 0.286505
 Individual 3-gram: 0.286505
 Individual 4-gram: 0.286505
 
-feign support instead of taking real ation .
+feign support instead of taking real ation . 
 Professed love of what one actually fears . 
 Cumulative 1-gram: 0.250000
 Cumulative 2-gram: 0.500000

@@ -153,15 +153,15 @@ Individual 3-gram: 0.090985
 Individual 4-gram: 0.500420
 
 Opportunities are rare and hard to grasp , and easy to lose . 
-,难遇易失 Opportunities are like gods , rare and easy to lose . 
-Cumulative 1-gram: 0.690033
-Cumulative 2-gram: 0.588462
-Cumulative 3-gram: 0.460425
-Cumulative 4-gram: 0.373887
-Individual 1-gram: 0.690033
-Individual 2-gram: 0.501842
-Individual 3-gram: 0.276013
-Individual 4-gram: 0.204454
+Opportunities are like gods , rare and easy to lose . 
+Cumulative 1-gram: 0.682161
+Cumulative 2-gram: 0.584168
+Cumulative 3-gram: 0.458794
+Cumulative 4-gram: 0.374966
+Individual 1-gram: 0.682161
+Individual 2-gram: 0.500252
+Individual 3-gram: 0.277918
+Individual 4-gram: 0.208438
 
 A false path will lead us to the very opposite of what we are trying to accomplish . 
 Act in a way that defeats one's purpose . 
@@ -174,7 +174,7 @@ Individual 2-gram: 0.367879
 Individual 3-gram: 0.367879
 Individual 4-gram: 0.367879
 
-feign support instead of taking real ation .
+feign support instead of taking real ation . 
 Lord ye who claimed to be fond of dragons was scared out of his wits when a real one appeared . 
 Cumulative 1-gram: 0.142857
 Cumulative 2-gram: 0.377964
@@ -340,15 +340,15 @@ Individual 3-gram: 0.335911
 Individual 4-gram: 0.335911
 
 Avoiding responsibilities is the greatest disgrace for an official . 
-Shame on officials 
-Cumulative 1-gram: 0.000000
-Cumulative 2-gram: 0.000000
-Cumulative 3-gram: 0.000000
-Cumulative 4-gram: 0.000000
-Individual 1-gram: 0.000000
-Individual 2-gram: 0.000000
-Individual 3-gram: 0.000000
-Individual 4-gram: 0.000000
+Shame on officials . 
+Cumulative 1-gram: 0.055783
+Cumulative 2-gram: 0.111565
+Cumulative 3-gram: 0.141214
+Cumulative 4-gram: 0.157777
+Individual 1-gram: 0.055783
+Individual 2-gram: 0.223130
+Individual 3-gram: 0.223130
+Individual 4-gram: 0.223130
 
 You cannot have your cake and eat it . 
 You can't have both fish and bear's paw . 
@@ -494,15 +494,15 @@ Individual 3-gram: 0.072240
 Individual 4-gram: 0.866878
 
 Governance by means of virtue . 
-Rule by virtue 
-Cumulative 1-gram: 0.245253
-Cumulative 2-gram: 0.300372
-Cumulative 3-gram: 0.321807
-Cumulative 4-gram: 0.332417
-Individual 1-gram: 0.245253
-Individual 2-gram: 0.367879
-Individual 3-gram: 0.367879
-Individual 4-gram: 0.367879
+Rule by virtue . 
+Cumulative 1-gram: 0.454898
+Cumulative 2-gram: 0.303265
+Cumulative 3-gram: 0.383860
+Cumulative 4-gram: 0.428882
+Individual 1-gram: 0.454898
+Individual 2-gram: 0.202177
+Individual 3-gram: 0.606531
+Individual 4-gram: 0.606531
 
 Responsibility for one's jurisdiction . 
 Duty-bound to defend the territory of one's country . 
